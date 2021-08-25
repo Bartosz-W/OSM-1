@@ -36,9 +36,9 @@ FILE* outputCSV=0;
 ////////////////////// Zmienne
 int y[5];
 int Tim = 0;                // Licznik uzytkownika
-unsigned int Tim1 = 0;
-unsigned int Tim2 = 0;
-unsigned int Tim3 = 0;
+int Tim1 = 0;
+int Tim2 = 0;
+int Tim3 = 0;
 unsigned int predkosc = 0;
 unsigned int preScale = 0;  // Preskaler licznika uzytkownika
 unsigned int Skaler = 0;	// Skaler potrzebny do przeliczania konkretnych Timow
